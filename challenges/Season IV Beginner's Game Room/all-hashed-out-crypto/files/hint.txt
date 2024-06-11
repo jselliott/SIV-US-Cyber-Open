@@ -1,0 +1,1 @@
+This challenge uses brute forcing in some capacity, try and limit your max length as we expect this challenge to work no matter the hardware being used.
